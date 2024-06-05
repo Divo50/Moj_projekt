@@ -1,0 +1,68 @@
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+header {
+    background-image: url(images/c.webp);
+    background-size: cover;
+    background-position: center;
+}
+
+header h1 {
+    padding: 230px 0;
+    color: white;
+}
+
+header p {
+    color: white;
+}
+
+nav li {
+    float: left;
+}
+
+nav a {
+    text-decoration: none;
+    display: block;
+    padding: 10px 20px;
+    color: white;
+}
+
+.pozadina {
+    background-color: rgba(0, 0, 0, 0.75);
+}
+
+nav {
+    float: right;
+}
+
+footer p {
+    color: white;
+    text-align: center;
+    padding: 30px 0;
+    background-color: black;
+}
+
+@media screen and (max-width: 576px) {
+    nav li {
+        clear: both;
+        width: 100%;
+    }
+
+    nav a {
+        padding: 15px 0;
+    }
+
+    nav {
+        clear: both;
+        width: 100%;
+    }
+
+    .pozadina p {
+        display: none;
+    }
+    
+  }

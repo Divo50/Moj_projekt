@@ -1,0 +1,75 @@
+{
+    "teams": [
+      {
+        "name": "Mercedes",
+        "country": "Njemačka",
+        "drivers": ["Lewis Hamilton", "George Russell"],
+        "championships": 8,
+        "entryYear": 1954
+      },
+      {
+        "name": "Red Bull Racing",
+        "country": "Austrija",
+        "drivers": ["Max Verstappen", "Sergio Pérez"],
+        "championships": 4,
+        "entryYear": 2005
+      },
+      {
+        "name": "Ferrari",
+        "country": "Italija",
+        "drivers": ["Charles Leclerc", "Carlos Sainz Jr."],
+        "championships": 16,
+        "entryYear": 1950
+      },
+      {
+        "name": "McLaren",
+        "country": "Ujedinjeno Kraljevstvo",
+        "drivers": ["Lando Norris", "Daniel Ricciardo"],
+        "championships": 8,
+        "entryYear": 1966
+      },
+      {
+        "name": "Alpine",
+        "country": "Francuska",
+        "drivers": ["Fernando Alonso", "Esteban Ocon"],
+        "championships": 2,
+        "entryYear": 1986
+      },
+      {
+        "name": "AlphaTauri",
+        "country": "Italija",
+        "drivers": ["Pierre Gasly", "Yuki Tsunoda"],
+        "championships": 0,
+        "entryYear": 1985
+      },
+      {
+        "name": "Aston Martin",
+        "country": "Ujedinjeno Kraljevstvo",
+        "drivers": ["Sebastian Vettel", "Lance Stroll"],
+        "championships": 0,
+        "entryYear": 1959
+      },
+      {
+        "name": "Williams",
+        "country": "Ujedinjeno Kraljevstvo",
+        "drivers": ["Nicholas Latifi", "Alexander Albon"],
+        "championships": 9,
+        "entryYear": 1977
+      },
+      {
+        "name": "Alfa Romeo",
+        "country": "Švicarska",
+        "drivers": ["Valtteri Bottas", "Zhou Guanyu"],
+        "championships": 0,
+        "entryYear": 1993
+      },
+      {
+        "name": "Haas",
+        "country": "Sjedinjene Američke Države",
+        "drivers": ["Mick Schumacher", "Kevin Magnussen"],
+        "championships": 0,
+        "entryYear": 2016
+      }
+    ]
+  }
+  

@@ -1,0 +1,94 @@
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+header {
+    background-image: url(images/2208942.jpeg);
+    background-size: cover;
+    background-position: center;
+}
+
+header h1 {
+    padding: 230px 0;
+    color: white;
+}
+
+header p {
+    color: white;
+}
+
+nav li {
+    float: left;
+}
+
+nav a {
+    text-decoration: none;
+    display: block;
+    padding: 10px 20px;
+    color: white;
+}
+
+.pozadina {
+    background-color: rgba(0, 0, 0, 0.75);
+}
+
+nav {
+    float: right;
+}
+
+.naslovi .row > div {
+    background-color: white;
+    padding: 0 0;
+    margin: 0 25px;
+}
+
+.naslovi .row > div h5 {
+    text-align: center;
+}
+
+.naslovi .row > div p {
+    max-width: 90%;
+    padding-left: 40px;
+}
+
+div img {
+    max-width: 100%;
+}
+
+.naslovi h2 {
+    text-align: center;
+}
+
+footer p {
+    color: white;
+    text-align: center;
+    padding: 30px 0;
+    background-color: black;
+}
+
+
+@media screen and (max-width: 576px) {
+    nav li {
+        clear: both;
+        width: 100%;
+    }
+
+    nav a {
+        padding: 15px 0;
+    }
+
+    nav {
+        clear: both;
+        width: 100%;
+    }
+
+    .pozadina p {
+        display: none;
+    }
+    
+  }
+
+
